@@ -116,7 +116,7 @@ body:not(.home-page):not(.stamppot-page) .container {
 }
 
 .recipe-steps li::before {
-    content: "Paso " counter(step-counter) ": ";
+    content: "Setp " counter(step-counter) ": ";
     color: #ff6b00;
     font-weight: bold;
 }
